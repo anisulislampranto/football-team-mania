@@ -1,0 +1,43 @@
+.details-section{
+    border-radius: 10px;
+    background-color: whitesmoke;
+    box-shadow: 8px 8px 8px gray;
+    border: 1px solid white;
+    margin: 20px;
+    padding: 35px;
+    display: flex;
+    width: 90%;
+    
+}
+.details {
+    width:30% ;
+}
+
+.team-image-section{
+    width: 60%;
+}
+.team-image {
+    box-shadow: 8px 8px 8px gray;
+    height: 100%;
+    
+    
+}
+
+@media only screen and (max-width: 375px) {
+    .details-section{
+        border-radius: 10px;
+        background-color: whitesmoke;
+        box-shadow: 8px 8px 8px gray;
+        border: 1px solid white;
+        margin: 20px;
+        padding: 35px;
+        width: 70%;
+        display: flex;
+        
+    }
+    .details {
+        width:100% ;
+    }
+    
+}
+

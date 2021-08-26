@@ -1,0 +1,21 @@
+.details-section img{
+    width: 100px;
+    
+}
+.league-detail-description{
+    margin: 20px;
+    padding: 30px;
+    width: 90%;
+    text-align: center;
+
+}
+.footer-icon{
+    text-align: center;
+}
+@media only screen and (max-width: 375px) {
+    .league-detail-description{
+        padding: 5px;
+      
+    
+    }   
+}

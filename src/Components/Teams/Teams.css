@@ -1,0 +1,21 @@
+.Teams-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+    padding: 20px;
+    background: black;
+    
+}
+@media only screen and (max-width: 375px) {
+   
+    .Teams-container{
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        padding: 20px;
+        width: 90%;
+        background: black;
+        
+        
+    }
+
+ }
