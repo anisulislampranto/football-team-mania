@@ -1,12 +1,14 @@
-# Website Name
-Football Team Mania
+## Website Name
+### Football Team Mania
 
-# Framwork/Library
-React js
+## Live site link
+https://friendly-bohr-0eff0d.netlify.app
 
-# Feature 
+## Framwork/Library
+### React js
+
+## Features 
 Each football team in an individual card with a button. 
 Onclick it will show Details info about the team.      
 
-# Live site link
-https://friendly-bohr-0eff0d.netlify.app
+
